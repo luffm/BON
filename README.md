@@ -23,7 +23,7 @@
 ## Private Rehearsal (Guan Ze-ju)
 2022-06-19<br>
 ![Private Rehearsal](images/2022-06-19-Private_Rehearsal.jpg)
-<br>1000 pieces
+<br>1020 pieces
 
 ## Irene Cahan d'Anvers (Pierre-Auguste Renoir)
 2021-10-02<br>
