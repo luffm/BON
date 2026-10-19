@@ -1,5 +1,10 @@
 <p align="right"><a href="https://luffm.github.io/Jigsaw-Puzzles/">Jigsaw Puzzles</a></p>
 
+## Lady Dressed in White with Flowers (H. Thomas Schafer)
+2026-06-03<br>
+![Lady Dressed in White with Flowers](images/2026-06-03-Lady_in_White.jpg)
+<br>1000 pieces
+
 ## Toeshoes (Guan Ze-ju)
 2026-02-07<br>
 ![Toeshoes](images/2026-02-07-Toeshoes.jpg)
